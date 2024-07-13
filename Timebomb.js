@@ -4,7 +4,7 @@ let timerEl = document.getElementById("timer");
 let messageEl = document.getElementById("message");
 let pageEl = document.getElementById("page")
 
-let counter = 6;
+let counter = 10;
 
 let counterid = setInterval(() => {
     counter= counter - 1;
